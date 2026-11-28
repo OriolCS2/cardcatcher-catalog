@@ -1,0 +1,138 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-11-28T03:37:10.202716Z",
+  "games": [
+    {
+      "id": "onepiece",
+      "catalog": "onepiece/catalog.623a943eb226.json",
+      "prices": "onepiece/prices.a00567c46a7c.json",
+      "cards": 5618,
+      "sets": 61,
+      "catalogVersion": "623a943eb226",
+      "pricesVersion": "a00567c46a7c",
+      "pricesUpdatedAt": "2026-11-27T14:49:51.000Z",
+      "catalogBytes": 1277633,
+      "pricesBytes": 391382
+    },
+    {
+      "id": "pokemon",
+      "catalog": "pokemon/catalog.4bd901cebb2c.json",
+      "prices": "pokemon/prices.d623ebfc9059.json",
+      "cards": 34588,
+      "sets": 323,
+      "catalogVersion": "4bd901cebb2c",
+      "pricesVersion": "d623ebfc9059",
+      "pricesUpdatedAt": "2026-11-27T14:49:42.000Z",
+      "catalogBytes": 7391697,
+      "pricesBytes": 1669420
+    },
+    {
+      "id": "magic",
+      "catalog": "magic/catalog.e5d2eaaa6e83.json",
+      "prices": "magic/prices.92722cd84359.json",
+      "cards": 98620,
+      "sets": 629,
+      "catalogVersion": "e5d2eaaa6e83",
+      "pricesVersion": "92722cd84359",
+      "pricesUpdatedAt": "2026-11-27T14:49:25.000Z",
+      "catalogBytes": 13964522,
+      "pricesBytes": 5562384
+    },
+    {
+      "id": "yugioh",
+      "catalog": "yugioh/catalog.862c79c7a630.json",
+      "prices": "yugioh/prices.b2a32056fd6c.json",
+      "cards": 44962,
+      "sets": 1035,
+      "catalogVersion": "862c79c7a630",
+      "pricesVersion": "b2a32056fd6c",
+      "pricesUpdatedAt": "2026-11-27T14:49:52.000Z",
+      "catalogBytes": 8907386,
+      "pricesBytes": 2298420
+    },
+    {
+      "id": "lorcana",
+      "catalog": "lorcana/catalog.5f06dd4f7aa0.json",
+      "prices": "lorcana/prices.c1f20f015f6c.json",
+      "cards": 2694,
+      "sets": 13,
+      "catalogVersion": "5f06dd4f7aa0",
+      "pricesVersion": "c1f20f015f6c",
+      "pricesUpdatedAt": "2026-11-27T14:50:01.000Z",
+      "catalogBytes": 682013,
+      "pricesBytes": 148360
+    },
+    {
+      "id": "dragonball",
+      "catalog": "dragonball/catalog.3161f1d0007e.json",
+      "prices": "dragonball/prices.3a5ad30ac6a7.json",
+      "cards": 16145,
+      "sets": 152,
+      "catalogVersion": "3161f1d0007e",
+      "pricesVersion": "3a5ad30ac6a7",
+      "pricesUpdatedAt": "2026-11-27T14:50:02.000Z",
+      "catalogBytes": 3327804,
+      "pricesBytes": 758653
+    },
+    {
+      "id": "digimon",
+      "catalog": "digimon/catalog.920b42c58d02.json",
+      "prices": "digimon/prices.722023a4c275.json",
+      "cards": 9586,
+      "sets": 104,
+      "catalogVersion": "920b42c58d02",
+      "pricesVersion": "722023a4c275",
+      "pricesUpdatedAt": "2026-11-27T14:50:03.000Z",
+      "catalogBytes": 2034926,
+      "pricesBytes": 374246
+    },
+    {
+      "id": "starwars",
+      "catalog": "starwars/catalog.c06f4bbf862b.json",
+      "prices": "starwars/prices.a3bb8c88e3d6.json",
+      "cards": 7052,
+      "sets": 34,
+      "catalogVersion": "c06f4bbf862b",
+      "pricesVersion": "a3bb8c88e3d6",
+      "pricesUpdatedAt": "2026-11-27T14:50:06.000Z",
+      "catalogBytes": 1367197,
+      "pricesBytes": 319364
+    },
+    {
+      "id": "fab",
+      "catalog": "fab/catalog.6f3346887ac4.json",
+      "prices": "fab/prices.571d6443195a.json",
+      "cards": 10851,
+      "sets": 110,
+      "catalogVersion": "6f3346887ac4",
+      "pricesVersion": "571d6443195a",
+      "pricesUpdatedAt": "2026-11-27T14:50:04.000Z",
+      "catalogBytes": 2004731,
+      "pricesBytes": 423234
+    },
+    {
+      "id": "riftbound",
+      "catalog": "riftbound/catalog.af4e16813c4f.json",
+      "prices": "riftbound/prices.0d63dfdecd40.json",
+      "cards": 1804,
+      "sets": 13,
+      "catalogVersion": "af4e16813c4f",
+      "pricesVersion": "0d63dfdecd40",
+      "pricesUpdatedAt": "2026-11-27T14:50:01.000Z",
+      "catalogBytes": 325828,
+      "pricesBytes": 107993
+    },
+    {
+      "id": "gundam",
+      "catalog": "gundam/catalog.4d10bb64c798.json",
+      "prices": "gundam/prices.d75ce42c9f95.json",
+      "cards": 2201,
+      "sets": 27,
+      "catalogVersion": "4d10bb64c798",
+      "pricesVersion": "d75ce42c9f95",
+      "pricesUpdatedAt": "2026-11-27T14:50:04.000Z",
+      "catalogBytes": 447148,
+      "pricesBytes": 116666
+    }
+  ]
+}
